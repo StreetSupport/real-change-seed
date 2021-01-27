@@ -144,27 +144,7 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "body", name: "body", widget: "markdown"}
             ]}
-      - file: "hugo/content/get-involved/_index.md"
-        label: "Get Involved"
-        name: "get-involved"
-        fields:
-          - {label: "Title (Real Help Doncaster prepended)", name: "title", widget: "string"}
-          - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Pretitle (optional - yellow text above title)", name: "pretitle", widget: "string", required: false},
-              {label: "Title (optional - white)", name: "title", widget: "string", required: false},
-              {label: "Subtitle (optional - white text below title)", name: "subtitle", widget: "string"}, required: false,
-              {label: "Body (optional)", name: "body", widget: "markdown", required: false},
-              {label: "Button", name: "button", widget: "object", fields: [
-                {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
-                {label: "Text", name: "text", widget: "string", required: false}
-              ]}
-            ]}
-          - {label: "Body", name: "content", widget: "markdown"}
-          - {label: "Section", name: "section", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}
-            ]}
+
       - file: "hugo/content/privacy/_index.md"
         label: "Privacy Policy"
         name: "privacy"
