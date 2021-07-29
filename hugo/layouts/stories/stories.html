@@ -1,0 +1,41 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+{{ $nav := .Site.GetPage "_nav.md" }}
+{{ partial "header-end.html" .Params.header }}
+
+<div id="main">
+
+  {{ with .Site.GetPage "Section" "stories" }}
+  {{ if .Params.intro }}
+    <div class="container">
+      <div class="content body-lg">
+        {{ .Params.intro | markdownify }}
+      </div>
+    </div>
+  {{ end }}
+  {{ end }}
+
+  <section class="section home-stories">
+    <div class="container">
+      <div class="home-stories-body">
+  {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
+  <div class="card-story">
+    <h3 class="card-story-title">{{ .Params.temporary.heading }}</h3>
+      <div class="card-story-image aspect aspect-5by2">
+        <img alt="" src="{{ .Params.temporary.image }}">
+      </div>
+    <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.temporary.text }}</a>
+  </div>
+  {{ end }}
+      </div>
+      <div class="home-stories-footer text-center">
+        {{ with .Site.GetPage "section" "stories" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
+      </div>
+    </div>
+  </section>
+
+</div>
+
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}

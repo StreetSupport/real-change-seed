@@ -67,6 +67,34 @@
     </div>
   </section>
 
+  {{ with .Site.GetPage "section" "stories" }}{{ if eq .Params.showonhome true }}
+  <section class="section">
+    <div class="home-stories">
+      <div class="container">
+        <div class="home-stories-header">
+          <h2 class="h1 home-stories-title">
+            {{ with .Site.GetPage "section" "stories" }}{{ .Params.heading }}{{ end }}
+          </h2>
+        </div>
+        <div class="home-stories-body">
+          {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
+            <div class="card-story">
+              <h3 class="card-story-title">{{ .Params.temporary.heading }}</h3>
+                <div class="card-story-image aspect aspect-5by2">
+                  <img alt="" src="{{ .Params.temporary.image }}">
+                </div>
+              <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.temporary.text }}</a>
+            </div>
+          {{ end }}
+        </div>
+        <div class="home-stories-footer text-center">
+          {{ with .Site.GetPage "section" "stories" }}<a class="button" href="{{ .Params.button.url }}">{{ .Params.button.text }}</a>{{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}{{ end }}
+
 </div>
 
 {{ $footer := .Site.GetPage "_footer.md" }}

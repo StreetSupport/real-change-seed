@@ -144,6 +144,22 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "body", name: "body", widget: "markdown"}
             ]}
+      - file: "hugo/content/stories/_index.md"
+        label: "Stories"
+        name: "stories"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
+          - {label: "Header", name: "header", widget: "object", fields: [
+              {label: "Background (optional)", name: "background", widget: "image", required: false},
+              {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
+            ]}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - {label: "Heading", name: "heading", widget: "text"}
+          - {label: "Button", name: "button", widget: "object", fields: [
+              {label: "URL (inc. http://)", name: "url", widget: "string"},
+              {label: "Text", name: "text", widget: "string"}
+            ]}
       - file: "hugo/content/get-involved/_index.md"
         label: "Get Involved"
         name: "get-involved"
@@ -185,6 +201,41 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
             ]}
+  - name: "stories"
+    label: "Story"
+    editor:
+      preview: false
+    folder: "hugo/content/stories"
+    create: true
+    filter: {field: "story", value: "yes"}
+    fields:
+      - {label: "Story", name: "story", widget: "hidden", default: "yes"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Header", name: "header", widget: "object", fields: [
+          {label: "Background (optional)", name: "background", widget: "image", required: false},
+          {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
+        ]}
+      - {label: "Summary (Card on Home and Stories)", name: "summary", widget: "object", fields: [
+          {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image"},
+          {label: "Heading", name: "heading", widget: "string", required: false},
+          {label: "Text", name: "text", widget: "string", required: false}
+        ]}
+      - {label: "Content", name: "content", widget: "object", fields: [
+          {label: "Image (Aspect 4by3 - 640px by 480px)", name: "image", widget: "image", required: false},
+          {label: "Name", name: "name", widget: "string", required: false},
+          {label: "Age", name: "age", widget: "string", required: false},
+          {label: "Help received", name: "help", widget: "string", required: false},
+          {label: "Body", name: "body", widget: "markdown", required: false}
+        ]}
+      - {label: "Real change", name: "realchange", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string", required: false},
+          {label: "Body", name: "body", widget: "markdown", required: false},
+          {label: "Button", name: "button", widget: "object", fields: [
+            {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
+            {label: "Text", name: "text", widget: "string", required: false}
+          ]}
+        ]}
   - name: "global"
     label: "Global"
     editor:
