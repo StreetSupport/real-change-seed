@@ -4,7 +4,7 @@ title: New Story |
 date: 2018-08-26T01:00:00.000Z
 header:
   hero: "Real Help Doncaster **New Story**"
-temporary:
+snippet:
   heading: “a tagline or quote about another story”
   image: /assets/uploads/home-partners-banner-2.jpg
   text: Read new story

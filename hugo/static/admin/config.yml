@@ -150,10 +150,6 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
-          - {label: "Header", name: "header", widget: "object", fields: [
-              {label: "Background (optional)", name: "background", widget: "image", required: false},
-              {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
-            ]}
           - {label: "Intro", name: "intro", widget: "markdown"}
           - {label: "Heading", name: "heading", widget: "text"}
           - {label: "Button", name: "button", widget: "object", fields: [
@@ -212,11 +208,7 @@ collections:
       - {label: "Story", name: "story", widget: "hidden", default: "yes"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Header", name: "header", widget: "object", fields: [
-          {label: "Background (optional)", name: "background", widget: "image", required: false},
-          {label: "Header Text (optional)", name: "hero", widget: "markdown", required: false}
-        ]}
-      - {label: "Summary (Card on Home and Stories)", name: "summary", widget: "object", fields: [
+      - {label: "Summary (Card on Home and Stories)", name: "snippet", widget: "object", fields: [
           {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image"},
           {label: "Heading", name: "heading", widget: "string", required: false},
           {label: "Text", name: "text", widget: "string", required: false}

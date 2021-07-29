@@ -79,11 +79,11 @@
         <div class="home-stories-body">
           {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") }}
             <div class="card-story">
-              <h3 class="card-story-title">{{ .Params.temporary.heading }}</h3>
+              <h3 class="card-story-title">{{ .Params.snippet.heading }}</h3>
                 <div class="card-story-image aspect aspect-5by2">
-                  <img alt="" src="{{ .Params.temporary.image }}">
+                  <img alt="" src="{{ .Params.snippet.image }}">
                 </div>
-              <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.temporary.text }}</a>
+              <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.snippet.text }}</a>
             </div>
           {{ end }}
         </div>
