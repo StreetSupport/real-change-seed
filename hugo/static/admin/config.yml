@@ -149,7 +149,7 @@ collections:
         name: "stories"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Show on Home", name: "showonhome", widget: "boolean", default: false}
+          - {label: "Show links on homepage", name: "showonhome", widget: "boolean", default: false}
           - {label: "Intro", name: "intro", widget: "markdown"}
           - {label: "Heading", name: "heading", widget: "text"}
           - {label: "Button", name: "button", widget: "object", fields: [
@@ -209,7 +209,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Summary (Card on Home and Stories)", name: "snippet", widget: "object", fields: [
-          {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image"},
+          {label: "Image (Aspect 5by2 - 540px by 216px)", name: "image", widget: "image", required: false},
           {label: "Heading", name: "heading", widget: "string", required: false},
           {label: "Text", name: "text", widget: "string", required: false}
         ]}
@@ -220,7 +220,7 @@ collections:
           {label: "Help received", name: "help", widget: "string", required: false},
           {label: "Body", name: "body", widget: "markdown", required: false}
         ]}
-      - {label: "Real change", name: "realchange", widget: "object", fields: [
+      - {label: "Real help", name: "realchange", widget: "object", fields: [
           {label: "Heading", name: "heading", widget: "string", required: false},
           {label: "Body", name: "body", widget: "markdown", required: false},
           {label: "Button", name: "button", widget: "object", fields: [
