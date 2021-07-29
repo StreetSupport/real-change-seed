@@ -22,7 +22,7 @@
   <div class="card-story">
     <h3 class="card-story-title">{{ .Params.snippet.heading }}</h3>
       <div class="card-story-image aspect aspect-5by2">
-        <img alt="" src="{{ .Params.snippet.image }}">
+        <img alt="" src="/{{ .Params.snippet.image }}">
       </div>
     <a class="card-story-cta" href="{{ .Permalink }}">{{ .Params.snippet.text }}</a>
   </div>
