@@ -198,7 +198,7 @@ collections:
               {label: "Body", name: "body", widget: "markdown"}
             ]}
   - name: "stories"
-    label: "Story"
+    label: "Stories"
     editor:
       preview: false
     folder: "hugo/content/stories"
