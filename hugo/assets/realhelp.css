@@ -556,7 +556,7 @@ p + .button { margin-top: 1rem; }
 
 @media (min-width: 768px) { .casestudy-header { -webkit-box-align: end; -ms-flex-align: end; align-items: flex-end; margin-left: auto; margin-right: auto; } }
 
-.casestudy-header-media { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; margin-bottom: 6rem; }
+.casestudy-header-media { -webkit-box-flex: 1; -ms-flex: 1; flex: 1; margin-bottom: 4rem; }
 
 @media (min-width: 576px) { .casestudy-header-media { margin-right: 1rem; max-width: 260px; } }
 

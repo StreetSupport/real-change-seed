@@ -213,17 +213,17 @@ collections:
           {label: "Heading", name: "heading", widget: "string", required: false},
           {label: "Link text", name: "text", widget: "string", required: false}
         ]}
-      - {label: "Content", name: "content", widget: "object", fields: [
+      - {label: "Main content", name: "content", widget: "object", fields: [
           {label: "Image (Aspect 4by3 - 640px by 480px)", name: "image", widget: "image", required: false},
           {label: "Name", name: "name", widget: "string", required: false},
           {label: "Age", name: "age", widget: "string", required: false},
           {label: "Help received", name: "help", widget: "string", required: false},
           {label: "Body", name: "body", widget: "markdown", required: false}
         ]}
-      - {label: "Real help", name: "realchange", widget: "object", fields: [
-          {label: "Heading", name: "heading", widget: "string", required: false},
+      - {label: "Real help (greyed section)", name: "realchange", widget: "object", fields: [
+          {label: "Heading of section", name: "heading", widget: "string", required: false},
           {label: "Body", name: "body", widget: "markdown", required: false},
-          {label: "Button", name: "button", widget: "object", fields: [
+          {label: "Button (donate)", name: "button", widget: "object", fields: [
             {label: "URL (inc. http://)", name: "url", widget: "string", required: false},
             {label: "Text", name: "text", widget: "string", required: false}
           ]}
