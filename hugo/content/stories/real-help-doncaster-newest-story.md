@@ -3,7 +3,7 @@ story: yes
 title: Real Help Doncaster | Newest Story
 date: 2021-07-30T10:10:27.200Z
 snippet:
-  image: assets/uploads/opengraph-20181026.jpg
+  image: assets/uploads/placeholder.jpg
   heading: Newest story
   text: Read the story
 content:
