@@ -11,11 +11,17 @@ content:
   name: Hannah*
   age: ""
   help: Essential items to help make a house a home
-  body: Hannah* is a single young person who has recently moved into her first
+  body: >-
+    Hannah* is a single young person who has recently moved into her first
     independent tenancy.  Since moving in, Hannah has been learning how to
     budget but has expressed needing essential items for her new home and
     suitable clothing. The Real Help Doncaster Fund has helped to provide Hannah
     with these items.
+
+
+
+
+    "Thanks to the Real Help Doncaster Fund I have been able to buy cooking materials, bedding and clothing. It has made a huge difference having these items as I am able to much more independent and learn new skills. Thank you again"
 realchange:
   heading: Real Help Doncaster
   body: >-
