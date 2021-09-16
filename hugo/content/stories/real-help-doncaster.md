@@ -11,10 +11,11 @@ content:
   name: Peter*
   age: "37"
   help: Uniform for Work
-  body: "*“I have recently starting doing some work experience in the community
-    but unfortunately I didn’t have any work clothes or boots. Thanks to the
-    Real Help Doncaster fund I have been able to buy the essential items I need
-    to continue the work and help to build my confidence. “*"
+  body: >-
+    ### Peter's Story.
+
+
+    *“I have recently starting doing some work experience in the community but unfortunately I didn’t have any work clothes or boots. Thanks to the Real Help Doncaster fund I have been able to buy the essential items I need to continue the work and help to build my confidence. “*
 realchange:
   heading: Real Help Doncaster
   body: >-
