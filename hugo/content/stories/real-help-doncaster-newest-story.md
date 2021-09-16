@@ -9,7 +9,7 @@ snippet:
 content:
   image: assets/uploads/story-placeholder.jpg
   name: Hannah*
-  age: ""
+  age: "28"
   help: Essential items to help make a house a home
   body: >-
     Hannah* is a single young person who has recently moved into her first
