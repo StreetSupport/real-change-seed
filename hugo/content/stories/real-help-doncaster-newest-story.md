@@ -21,7 +21,7 @@ content:
 
 
 
-    "Thanks to the Real Help Doncaster Fund I have been able to buy cooking materials, bedding and clothing. It has made a huge difference having these items as I am able to much more independent and learn new skills. Thank you again"
+    *"Thanks to the Real Help Doncaster Fund I have been able to buy cooking materials, bedding and clothing. It has made a huge difference having these items as I am able to much more independent and learn new skills. Thank you again"*
 realchange:
   heading: Real Help Doncaster
   body: >-
