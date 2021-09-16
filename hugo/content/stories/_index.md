@@ -12,7 +12,7 @@ intro: >-
 
 
   Have a read of some of the stories below.
-heading: A heading that describes what/who donations will go towards helping.
+heading: Have a read of some of the stories below.
 button:
   text: Change the way you GIVE here
   url: https://www.justgiving.com/campaign/realhelpdoncaster
