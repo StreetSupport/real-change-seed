@@ -3,8 +3,15 @@ title: Stories |
 showonhome: false
 header:
   hero: Real help Doncaster Stories
-intro: Your donations have helped so many people over the last three years. Have
-  a read of some of the stories below.
+intro: >-
+  Your generous donations have helped make a real difference to so many people
+  in our community. Over the past three years, with your support we have been
+  able to give many people in Doncaster the best possible chance of living
+  happier and healthier lives. We have empowered people to move away from the
+  streets and make positive choices for themselves and their families.
+
+
+  Have a read of some of the stories below.
 heading: A heading that describes what/who donations will go towards helping.
 button:
   text: Change the way you GIVE here
