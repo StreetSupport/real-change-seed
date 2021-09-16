@@ -1,6 +1,6 @@
 ---
 story: yes
-title: "Real Help Doncaster "
+title: Real Help Doncaster- Peter's Story
 date: 2021-09-16T13:43:30.730Z
 snippet:
   image: assets/uploads/placeholder.jpg
@@ -9,12 +9,12 @@ snippet:
 content:
   image: assets/uploads/story-placeholder.jpg
   name: Peter*
-  age: ""
+  age: "37"
   help: Uniform for Work
-  body: “I have recently starting doing some work experience in the community but
-    unfortunately I didn’t have any work clothes or boots. Thanks to the Real
-    Help Doncaster fund I have been able to buy the essential items I need to
-    continue the work and help to build my confidence. “
+  body: "*“I have recently starting doing some work experience in the community
+    but unfortunately I didn’t have any work clothes or boots. Thanks to the
+    Real Help Doncaster fund I have been able to buy the essential items I need
+    to continue the work and help to build my confidence. “*"
 realchange:
   heading: Real Help Doncaster
   body: >-
