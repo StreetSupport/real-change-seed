@@ -12,7 +12,7 @@ content:
   age: "28"
   help: Essential items to help make a house a home
   body: >-
-    Hannah* is a single young person who has recently moved into her first
+    ### Hannah* is a single young person who has recently moved into her first
     independent tenancy.  Since moving in, Hannah has been learning how to
     budget but has expressed needing essential items for her new home and
     suitable clothing. The Real Help Doncaster Fund has helped to provide Hannah
