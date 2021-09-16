@@ -1,6 +1,6 @@
 ---
 story: yes
-title: Real Help Doncaster | Newest Story
+title: "Real Help Doncaster "
 date: 2021-07-30T10:10:27.200Z
 snippet:
   image: assets/uploads/placeholder.jpg
@@ -17,7 +17,7 @@ content:
     suitable clothing. The Real Help Doncaster Fund has helped to provide Hannah
     with these items.
 realchange:
-  heading: Real help heading
+  heading: Real Help Doncaster
   body: >-
     <!--StartFragment-->
 
@@ -28,5 +28,5 @@ realchange:
     <!--EndFragment-->
   button:
     url: https://www.justgiving.com/campaign/realhelpdoncaster
-    text: real help button
+    text: Donate to Real Help Doncaster
 ---
