@@ -3,7 +3,7 @@ story: yes
 title: Real Help Doncaster- Stephen's Story
 date: 2021-10-04T11:48:05.536Z
 snippet:
-  image: assets/uploads/placeholder.jpg
+  image: assets/uploads/nasro-azaizia-1np6_esayl8-unsplash.jpg
   heading: Stephen's* story.
   text: Read the story
 content:
