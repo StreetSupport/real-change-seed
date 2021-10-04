@@ -3,7 +3,7 @@ story: yes
 title: Real Help Doncaster- Sarah's Story
 date: 2021-10-04T11:25:05.275Z
 snippet:
-  image: assets/uploads/placeholder.jpg
+  image: assets/uploads/christopher-campbell-rdeovte7vos-unsplash.jpg
   heading: Sarah's* story.
   text: Read the story
 content:
