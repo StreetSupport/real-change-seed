@@ -3,11 +3,11 @@ story: yes
 title: Real Help Doncaster- Peter's Story
 date: 2021-09-16T13:43:30.730Z
 snippet:
-  image: assets/uploads/placeholder.jpg
+  image: assets/uploads/irene-strong-v2aknjmbp_k-unsplash.jpg
   heading: Peter's* story.
   text: Read the story
 content:
-  image: assets/uploads/story-placeholder.jpg
+  image: assets/uploads/irene-strong-v2aknjmbp_k-unsplash.jpg
   name: Peter*
   age: "37"
   help: Uniform for Work
