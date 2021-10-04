@@ -7,7 +7,7 @@ snippet:
   heading: Stephen's* story.
   text: Read the story
 content:
-  image: assets/uploads/story-placeholder.jpg
+  image: assets/uploads/nasro-azaizia-1np6_esayl8-unsplash.jpg
   name: Stephen's*
   age: "32"
   help: ""
