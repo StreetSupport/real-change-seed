@@ -1,6 +1,6 @@
 ---
 title: Stories |
-showonhome: false
+showonhome: true
 header:
   hero: Real help Doncaster Stories
 intro: >-
