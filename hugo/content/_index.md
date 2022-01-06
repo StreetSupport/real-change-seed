@@ -28,7 +28,7 @@ how:
   body: If your organisation provides a service to support people who are homeless
     in Rochdale Borough and you would like to discuss how to become an approved
     Real Change partner, please contact us at
-    <mailto:info@realchangerochdale.co.uk> or  [find out more
+    <mailto:info@realchangerochdale.co.uk> or [find out more
     here](/how-to-apply/).
   heading: How can you apply?
 partners:
