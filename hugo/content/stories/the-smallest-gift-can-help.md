@@ -10,7 +10,7 @@ summary:
   heading: Anyone can fall on hard times
   text: Helping a family
 content:
-  image: assets/uploads/the-smallest-gift-can-help.jpg
+  image: assets/uploads/the-smallest-gift-can-help4x3.jpg
   help: Electric metre top-up and a food parcel
   body: Real change exists to support those who are the most vulnerable in our
     communities. The financial support that real change provides comes from the
