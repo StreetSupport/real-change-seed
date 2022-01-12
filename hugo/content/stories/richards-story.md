@@ -5,7 +5,7 @@ date: 2022-01-12T14:06:08.910Z
 header:
   hero: Real Change Rochdale **Richard's Story***
 summary:
-  image: hugo/static/assets/uploads/richard.jpg
+  image: assets/uploads/richard.jpg
   heading: '"Thank you for all your support, kindness and generosity"'
   text: Read Richard's Story
 content:
@@ -15,7 +15,7 @@ content:
     He eventually got involved in another relationship some years after he lost
     his wife. Unfortunately, this new relationship led to him suffering from
     financial and emotional abuse which caused him to lose everything he owned.
-  image: hugo/static/assets/uploads/richard4x3.jpg
+  image: assets/uploads/richard4x3.jpg
   age: "70"
   name: Richard
   help: Clothing and Financial support for Housing
