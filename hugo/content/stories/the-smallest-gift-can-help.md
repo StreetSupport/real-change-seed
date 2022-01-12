@@ -6,11 +6,11 @@ header:
   background: ""
   hero: Real Change Rochdale **Helping a Family***
 summary:
-  image: hugo/static/assets/uploads/the-smallest-gift-can-help.jpg
+  image: assets/uploads/the-smallest-gift-can-help.jpg
   heading: Anyone can fall on hard times
   text: Helping a family
 content:
-  image: hugo/static/assets/uploads/the-smallest-gift-can-help4x3.jpg
+  image: assets/uploads/the-smallest-gift-can-help4x3.jpg
   help: Electric metre top-up and a food parcel
   body: Real change exists to support those who are the most vulnerable in our
     communities. The financial support that real change provides comes from the
