@@ -6,7 +6,7 @@ header:
 intro: "- - -"
 heading: |-
   Your donations go toward real people experiencing homelessness in our area,
-  people like John and Paul.
+  read the stories of the people we've helped.
 button:
   text: Read more here
   url: https://realchangerochdale.co.uk/stories/
