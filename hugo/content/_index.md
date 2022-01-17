@@ -12,7 +12,7 @@ whatis:
     Together we **can** make a difference, so donate now to help tackle homelessness in our community.
   button:
     text: Donate and make a Real Change in Rochdale
-    url: https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV
+    url: https://donate.thebiggive.org.uk/campaign/a056900002CTiLOAA1
   heading: What is Real Change?
   image: assets/uploads/home-intro-whatis.png
 who:
