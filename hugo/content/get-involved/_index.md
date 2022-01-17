@@ -18,13 +18,12 @@ howYou:
     Whether you're interested in getting involved personally, on behalf of your
     community group, workplace or college, or as a business, there are many ways
     you can help. Get in touch by emailing
-    <mailto:info@realchangerochdale.co.uk> with any inquiries. To join our
-    mailing list, click [here](http://eepurl.com/gbvxdn).
+    [info@realchangerochdale.co.uk](mailto:info@realchangerochdale.co.uk) with
+    any inquiries. To join our mailing list, click
+    [here](http://eepurl.com/gbvxdn).
 
 
-    As well as
-    [donating](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV)
-    directly to the fund, you might also want to:
+    As well as [donating](https://donate.thebiggive.org.uk/campaign/a056900002CTiLOAA1) directly to the fund, you might also want to:
   heading: How you can help make a Real Change.
 takePart:
   body: >-
@@ -32,9 +31,7 @@ takePart:
     people in your area who are homeless.
 
 
-    Check out [Just Giving's Fundraising
-    Toolkit](https://www.justgiving.com/fundraising/tips/fundraising-page-toolkit)
-    too, including Top 10 Tips and ideas for promoting your page.
+    Check out [Just Giving's Fundraising Toolkit](https://www.justgiving.com/fundraising/tips/fundraising-page-toolkit) too, including Top 10 Tips and ideas for promoting your page.
 
 
     <br>
@@ -45,10 +42,7 @@ inviteUs:
     well as charities working directly with people who are homeless. 
 
 
-    We'd be delighted to come and talk to you about the Campaign at an event you
-    are involved in organising, whether that's the weekly meeting at your
-    church, a concert/cultural event, a conference your business in putting on
-    or your sports team's AGM. 
+    We'd be delighted to come and talk to you about the Campaign at an event you are involved in organising, whether that's the weekly meeting at your church, a concert/cultural event, a conference your business in putting on or your sports team's AGM. 
   heading: Invite us to speak at an event
 shareSkills:
   body: >-
@@ -60,10 +54,7 @@ shareSkills:
     <br>
 
 
-    Every bit helps, so if you want to help people in your area who are
-    homeless, please [get in touch](mailto:info@realchangerochdale.co.uk) or
-    [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you
-    up to date.
+    Every bit helps, so if you want to help people in your area who are homeless, please [get in touch](mailto:info@realchangerochdale.co.uk) or [sign up to our mailing list](http://eepurl.com/gbvxdn) so we can keep you up to date.
   heading: Share your skills or Knowledge
 playARole:
   body: >-
@@ -71,9 +62,7 @@ playARole:
     including:
 
 
-    * Helping us spread the word by sponsoring public advertising space (JC
-    Decaux are matching any ads we can fund-raise for so we reach a bigger
-    audience in your local area)
+    * Helping us spread the word by sponsoring public advertising space (JC Decaux are matching any ads we can fund-raise for so we reach a bigger audience in your local area)
 
 
     * Supporting our efforts to get the message out via social media
@@ -82,12 +71,9 @@ playARole:
     * Helping administer grants to people who are homeless
 
 
-    * Being an 'ambassador' for the campaign within a specific area of the
-    borough, or with particular networks such as colleges, churches or community
-    groups.
+    * Being an 'ambassador' for the campaign within a specific area of the borough, or with particular networks such as colleges, churches or community groups.
 
 
     <br>
   heading: Play a role in organising Campaign activities
 ---
-
