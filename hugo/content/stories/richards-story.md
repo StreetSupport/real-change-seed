@@ -55,6 +55,6 @@ realchange:
     Richard is now fully independent and thankful to those who have given to Real change because it is through their generosity that he was able to move into his new accommodation. Richard is now using his experiences to support other people in supported accommodation. Richard is now debt free and today He left a letter for all Staff members saying, “Thank you for all your support, kindness and generosity, you are like angels and will always be in my prayers.” Richard has found a place he can call home and live for the rest of his life. It was through charitable donations that Richard was able to receive financial support to access the essential items of accommodation and clothing. Real change exists to provide this type of financial support to those who are the most vulnerable and at risk of homelessness in our communities. The financial support has been raised by local business and public charitable giving. Your generosity can provide the opportunity for others break free from homelessness.
   heading: The Real Change You Made
   button:
-    url: http://
+    url: https://donate.thebiggive.org.uk/campaign/a056900002CTiLOAA1
     text: Donate now and make a Real Change in Rochdale
 ---
