@@ -15,7 +15,7 @@ content:
     He eventually got involved in another relationship some years after he lost
     his wife. Unfortunately, this new relationship led to him suffering from
     financial and emotional abuse which caused him to lose everything he owned.
-  image: assets/uploads/richard4x3.jpg
+  image: assets/uploads/richard4x3.png
   age: "70"
   name: Richard
   help: Clothing and Financial support for Housing
