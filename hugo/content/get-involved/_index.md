@@ -23,7 +23,7 @@ howYou:
     [here](http://eepurl.com/gbvxdn).
 
 
-    As well as [donating](https://donate.thebiggive.org.uk/campaign/a056900002CTiLOAA1) directly to the fund, you might also want to:
+    As well as [donating](https://donate.thebiggive.org.uk/campaign/a056900002CTwrbAAD) directly to the fund, you might also want to:
   heading: How you can help make a Real Change.
 takePart:
   body: >-
