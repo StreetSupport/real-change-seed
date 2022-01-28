@@ -5,11 +5,11 @@ date: 2022-01-27T11:28:14.138Z
 header:
   hero: Real Change Rochdale **MF's Story***
 summary:
-  image: assets/uploads/352-640x480.jpg
+  image: assets/uploads/chair.png
   text: Read MF's Story
   heading: Struggling with first rent payments
 content:
-  image: assets/uploads/352-640x480.jpg
+  image: assets/uploads/chair.png
   name: MF
   age: Not Disclosed
   help: First rent payment
