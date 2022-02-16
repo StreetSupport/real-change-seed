@@ -1,6 +1,6 @@
 ---
 story: yes
-title: Helping MF and her Daughter
+title: Helping MF and her Daughter |
 date: 2022-01-27T11:28:14.138Z
 header:
   hero: Real Change Rochdale **MF's Story***
