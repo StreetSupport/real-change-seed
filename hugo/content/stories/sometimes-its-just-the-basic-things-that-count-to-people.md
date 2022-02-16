@@ -1,6 +1,6 @@
 ---
 story: yes
-title: Sometimes it's just the basic things that count to people.
+title: Sometimes it's just the basic things that count to people |
 date: 2022-02-09T13:34:01.946Z
 header:
   hero: Real Change Rochdale **Good News Story***
