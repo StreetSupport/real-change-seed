@@ -7,9 +7,7 @@ content: >-
   ## Do you want to get involved in Real Help Doncaster?
 
 
-  Whether you are interested in getting involved personally, on behalf of your
-  community group, workplace or college, or as a business, there are many ways
-  you can help.
+  Whether you are interested in getting involved personally, on behalf of your community group, workplace or college, or as a business, there are many ways you can help.
 
 
   As well as donating directly to the fund, you might want to:
@@ -24,20 +22,16 @@ content: >-
   * Share your skills or knowledge
 
 
-  Together we can make a change, so if you want to support Real Help in
-  Doncaster, please [get in touch](mailto:info@realhelpdoncaster.org)
+  Together we can make a change, so if you want to support Real Help in Doncaster, please [get in touch](mailto:realhelpdoncaster@changing-lives.org.uk)
 section:
   body: >-
     To end homelessness in our area we will need to work together.
 
 
-    For a more comprehensive list of support available in Doncaster please
-    visit:
+    For a more comprehensive list of support available in Doncaster please visit:
 
 
-    [Your Life
-    Doncaster](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
-  heading: 'Real Help Doncaster '
-  image: ''
+    [Your Life Doncaster](https://www.yourlifedoncaster.co.uk/s4s/WhereILive/Council?pageId=7&lockLA=True)
+  heading: "Real Help Doncaster "
+  image: assets/uploads/opengraph-20181026.jpg
 ---
-
