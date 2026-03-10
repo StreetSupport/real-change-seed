@@ -1,6 +1,9 @@
 baseurl = "https://realhelpdoncaster.org/"
 languageCode = "en-gb"
 title = "Real Help Doncaster"
-disableKinds = ["RSS", "taxonomyTerm"]
-[blackfriday]
-   hrefTargetBlank = true
+disableKinds = ["RSS", "taxonomy"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
